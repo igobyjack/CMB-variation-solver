@@ -6,7 +6,6 @@ I made this to experiment with varying values in the Lambda Cold Dark Matter mod
 
 For the baseline CMB model, I used publicly available data from the Planck Collaboration, Atacama Cosmology Telescope (ACT), and South Pole Telescope (SPT). 
 
-Here are some of the graphs I was able to generate.
 
 ### Neutrino damping
 
